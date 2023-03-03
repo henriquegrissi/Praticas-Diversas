@@ -41,11 +41,13 @@
   padding: 10px;
   
 }
-#teste{
+.alinha{
   display: flex;
   justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
-#bt-of{
+.bt-of{
    
   color: white;
   background-color: blue;
@@ -128,9 +130,4 @@
 .rec
 {
   font-size:x-large;
-}
-#footer
-{
-  text-align:center;
-  background-color: rgb(122, 121, 121);
 }
