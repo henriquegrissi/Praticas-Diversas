@@ -1,0 +1,136 @@
+.Busca
+{ 
+  padding: 10px;  
+}
+.fotopessoal
+{   
+    max-width: 65%;
+    display:inline;
+    margin-left:80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main
+{
+   max-width: 100%; 
+}
+#projetos{
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+#projetos-title{
+
+  display: flex !important;
+  justify-content: center;
+}
+.nome
+{
+    font-size: x-large;
+    padding: 10px;
+    margin-top: 10px;   
+}
+.descricao 
+{
+  margin-top: 10px;
+}
+#insta
+{
+  display:inline;
+  color: black;
+  padding: 10px;
+  
+}
+#teste{
+  display: flex;
+  justify-content: center;
+}
+#bt-of{
+   
+  color: white;
+  background-color: blue;
+  border-radius: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.redes
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  margin-top: 200px;
+    
+}
+.bandeira
+{
+  max-width: 100%;
+}
+#projeto1
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+.foto2
+{
+  max-width: 100%;
+  margin-left: 15px;
+}
+#projeto2
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  margin-left: 15px;
+}
+.foto3
+{
+  max-width: 100%;
+  margin-right: 15px; 
+}
+.foto4
+{
+  max-width: 100%;
+}
+.tradutor
+{
+  max-width: 100%;
+}
+.dev
+{
+  max-width: 100%;
+  padding: 10px;
+}
+.experienciainsta
+{
+  max-width: 100%;
+  padding: 10px;
+}
+.repositorio
+{
+  color: blue; 
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.rep
+{
+  background-color: rgb(122, 121, 121);
+}
+.rec
+{
+  font-size:x-large;
+}
+#footer
+{
+  text-align:center;
+  background-color: rgb(122, 121, 121);
+}
