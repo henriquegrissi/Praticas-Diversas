@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik Iso', cursive;
+}
+body{
+
+    background-color: white;
+}
+header{
+    background: black;
+    padding: 20px;
+
+}
+header h1{
+    color: red;
+    text-align: center; /* COLOCAR FONTE*/
+    font-family: 'Rubik Iso', cursive;
+}
+.score-board{
+    border: 3px solid red;
+    width: 350px;
+    margin: 25px auto;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 10px;
+    position: relative;
+}
+.badge{
+    background: gray;
+    font-size: 14px;
+    padding: 2px 14px;
+}
+#user-label{
+    position: absolute;
+    top: 20px;
+    left: -30px;
+}
+#comp-label{
+    position: absolute;
+    top: 20px;
+    right: -30px;
+}
