@@ -1,0 +1,5 @@
+n1 = int(input('Qual é a sua primeira nota? '))
+n2 = int(input('Qual é a sua segunda nota? '))
+s = (n1+n2)
+m = (s/2)
+print('A sua média é: {}'.format(m))
